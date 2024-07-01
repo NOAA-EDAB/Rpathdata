@@ -1,3 +1,7 @@
+# raw data files *not to be shared on github*
+/data-raw/comlandtemp.rds
+
+
 # History files
 .Rhistory
 .Rapp.history
